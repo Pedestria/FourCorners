@@ -1,0 +1,19 @@
+//Items
+item.start_tome.name=The Grand Tome of Knowledge
+item.wisdom_shard.name=Wisdom Shard
+item.avalon_gem.name= Avalon Gem
+item.avalon_ingot.name=Avalon Ingot
+item.wisdom_ingot.name=Wisdom Ingot
+
+//Blocks
+tile.avalite_ore_block.name=Avalite Ore
+tile.wisdom_ore_block.name=Wisdom Ore
+tile.dimension_accessor_block.name=Dimension Accessor
+tile.core_fabricator_simple_block.name=Core Fabricator Simple
+
+//Gui
+tile.container_core_fabricator_simple.name=Core Fabricator Simple
+
+//Tab
+
+itemGroup.tabFourCorners=Four Corners
