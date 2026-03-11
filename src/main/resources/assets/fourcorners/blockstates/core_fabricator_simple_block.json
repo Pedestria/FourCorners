@@ -1,5 +1,7 @@
 {
-	"variants": {
-		"normal": { "model": "fourcorners:core_fabricator_simple_block" }
-		}
+  "variants": {
+    "": {
+      "model": "fourcorners:block/core_fabricator_simple_block"
+    }
+  }
 }

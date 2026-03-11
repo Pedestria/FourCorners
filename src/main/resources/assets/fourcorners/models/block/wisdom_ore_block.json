@@ -1,6 +1,6 @@
 {
 	"parent": "block/cube_all",
 	"textures": {
-		"all": "fourcorners:blocks/wisdom_ore_block"
+		"all": "fourcorners:block/wisdom_ore_block"
 	}
 }

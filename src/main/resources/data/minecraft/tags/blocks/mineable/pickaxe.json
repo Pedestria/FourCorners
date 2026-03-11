@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "fourcorners:avalite_ore_block",
+    "fourcorners:wisdom_ore_block",
+    "fourcorners:dimension_accessor_block",
+    "fourcorners:core_fabricator_simple_block"
+  ]
+}

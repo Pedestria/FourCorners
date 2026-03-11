@@ -1,6 +1,6 @@
 {
 	"parent": "block/cube_all",
 	"textures": {
-		"all": "fourcorners:blocks/dimension_accessor_block"
+		"all": "fourcorners:block/dimension_accessor_block"
 	}
 }

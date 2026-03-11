@@ -1,6 +1,6 @@
 {
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "fourcorners:items/wisdom_shard"
+		"layer0": "fourcorners:item/wisdom_shard"
 	}
 }

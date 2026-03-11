@@ -1,5 +1,7 @@
 {
-	"variants": {
-		"normal": { "model": "fourcorners:dimension_accessor_block" }
-		}
+  "variants": {
+    "": {
+      "model": "fourcorners:block/dimension_accessor_block"
+    }
+  }
 }

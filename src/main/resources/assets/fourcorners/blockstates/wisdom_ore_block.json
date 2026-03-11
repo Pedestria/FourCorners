@@ -1,5 +1,7 @@
 {
-	"variants": {
-		"normal": { "model": "fourcorners:wisdom_ore_block" }
-		}
+  "variants": {
+    "": {
+      "model": "fourcorners:block/wisdom_ore_block"
+    }
+  }
 }

@@ -1,0 +1,14 @@
+{
+  "item.fourcorners.start_tome": "The Grand Tome of Knowledge",
+  "item.fourcorners.wisdom_shard": "Wisdom Shard",
+  "item.fourcorners.avalon_gem": "Avalon Gem",
+  "item.fourcorners.avalon_ingot": "Avalon Ingot",
+  "item.fourcorners.wisdom_ingot": "Wisdom Ingot",
+  "block.fourcorners.avalite_ore_block": "Avalite Ore",
+  "block.fourcorners.wisdom_ore_block": "Wisdom Ore",
+  "block.fourcorners.dimension_accessor_block": "Dimension Accessor",
+  "block.fourcorners.core_fabricator_simple_block": "Core Fabricator Simple",
+  "container.fourcorners.dimension_accessor": "Dimension Accessor",
+  "container.fourcorners.core_fabricator_simple": "Core Fabricator Simple",
+  "itemGroup.fourcorners": "Four Corners"
+}

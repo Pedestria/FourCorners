@@ -12,11 +12,18 @@ out
 *.iws
 *.iml
 .idea
+__pycache__
+*.pyc
 
 # gradle
 build
 .gradle
+.gradle-home
 
 # other
 eclipse
 run
+downloads
+forge*changelog.txt
+.DS_Store
+
