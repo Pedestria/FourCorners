@@ -26,4 +26,5 @@ run
 downloads
 forge*changelog.txt
 .DS_Store
+.claude/worktrees
 
