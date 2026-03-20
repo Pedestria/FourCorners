@@ -28,3 +28,10 @@ forge*changelog.txt
 .DS_Store
 .claude/worktrees
 
+# asset generator temp/cache
+tools/asset-generator/.env
+tools/asset-generator/.cache/
+tools/asset-generator/.staging/
+tools/asset-generator/.logs/
+tools/asset-generator/*.egg-info/
+
