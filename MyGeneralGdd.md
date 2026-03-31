@@ -1,4 +1,3 @@
-Four Corners.
+Four Corners. (Four Corners of the Universe)
 
-Dimension Accessor Block:
- Acceses each dimension.
+See docs behind specific features.
